@@ -1,1 +1,0 @@
-# Screen Manager of Money
